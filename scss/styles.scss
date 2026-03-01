@@ -1,1 +1,14 @@
 //
+body {
+  background-color: #c0aa78;
+}
+.d-header {
+  background-color: #6f7b6d;
+}
+body.has-sidebar-page #main-outlet-wrapper {
+  gap: 0 4rem;
+}
+.powered-by-discourse,
+.powered-by-discourse__content {
+  display: none;
+}
