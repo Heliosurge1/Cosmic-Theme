@@ -10,7 +10,7 @@
   "assets": {
 //   "SouffletVert-Hybrid106R": "assets/SouffletVert-Hybrid106R.woff2",
 //    "Young-Serif-Regular": "assets/YoungSerif-Regular.woff2",
-    "icons-sprite": "/assets/spritesheet.svg",
+//    "icons-sprite": "/assets/spritesheet.svg",
     "bg-header": "/assets/bg-header.jpg",
     "bg-paper": "/assets/bg-paper.jpg",
     "bg-sand": "/assets/bg-sand.jpg",
@@ -33,7 +33,7 @@
       "selected": "d1f0ff",
       "hover": "f2f2f2"
     },
-    "Canvas Dark": {
+    "Cosmic Dark": {
       "primary": "dddddd",
       "secondary": "222222",
       "tertiary": "099dd7",
