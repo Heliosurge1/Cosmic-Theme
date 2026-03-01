@@ -3,4 +3,19 @@
 //   --heading-font-family: Inter, Arial, sans-serif;
 //   --d-font-family--monospace: ui-monospace, monospace;
 //   --base-font-size: 1em;
+
+@font-face {
+  font-family: "YoungSerif Regular";
+  src: url($Young-Serif-Regular) format("woff2");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "SouffletVert";
+  src: url($SouffletVert-Hybrid106R) format("woff2");
+  font-weight: normal;
+  font-style: normal;
+}
+
 // }
