@@ -1,16 +1,28 @@
 {
-  "name": "Canvas Theme",
-  "authors": "Manuel Kostka",
+  "name": "Cosmic Theme",
+  "authors": "Dan DeMontmorency",
   "about_url": "",
   "license_url": "",
   "learn_more": "",
   "theme_version": "0.0.1",
   "minimum_discourse_version": null,
   "maximum_discourse_version": null,
-  "assets": {},
+  "assets": {
+//   "SouffletVert-Hybrid106R": "assets/SouffletVert-Hybrid106R.woff2",
+//    "Young-Serif-Regular": "assets/YoungSerif-Regular.woff2",
+    "icons-sprite": "/assets/spritesheet.svg",
+    "bg-header": "/assets/bg-header.jpg",
+    "bg-paper": "/assets/bg-paper.jpg",
+    "bg-sand": "/assets/bg-sand.jpg",
+    "bg-stone": "/assets/bg-stone.png",
+    "border-metal-gold": "/assets/border-metal-gold.png",
+//    "bg-badge-bronze": "/assets/bg-badge-bronze.svg",
+//    "bg-badge-silver": "/assets/bg-badge-silver.svg",
+//    "bg-badge-gold": "/assets/bg-badge-gold.svg"
+  },
   "modifiers": {},
   "color_schemes": {
-    "Canvas Light": {
+    "Cosmic Light": {
       "primary": "222222",
       "secondary": "ffffff",
       "tertiary": "0088cc",
